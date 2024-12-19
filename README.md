@@ -5,8 +5,6 @@ I'm passionate about learning new things and solving real-world problems through
 
   🌱 I’m Currently Learning
 - Advanced Data Structures and Algorithms
-- Front-end Development with React.js
-- IoT and Embedded Systems for smart solutions
 
  💞 I’m Looking to Collaborate On
 - Open-source projects that use Python or Java
