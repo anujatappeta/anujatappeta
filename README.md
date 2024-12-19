@@ -10,7 +10,6 @@ I'm passionate about learning new things and solving real-world problems through
 
  💞 I’m Looking to Collaborate On
 - Open-source projects that use Python or Java
-- Innovation and hackathon projects in the field of AI/ML or IoT
 - Creative automation tools and solutions
 
  📫 How to Reach Me
