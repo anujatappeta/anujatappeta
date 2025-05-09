@@ -12,14 +12,4 @@ I'm passionate about learning new things and solving real-world problems through
 
  📫 How to Reach Me
   - Email: anujatappeta@gmail.com
- - LinkedIn: https://www.linkedin.com/in/anuja-tappeta-1674522a4
-
-
-
-
- ⚡ Fun Fact
-I love exploring new technologies and turning ideas into reality. When I'm not coding, you'll find me sketching or reading about science fiction!
-
-
-
-✨ This is a dynamic repository showcasing who I am and what I do. Feel free to explore my projects and connect with me!
+ - LinkedIn: https://www.linkedin.com/in/anuja-tappeta-1674522a4/
