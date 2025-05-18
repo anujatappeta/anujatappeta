@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuja Tappeta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujatappeta&label=Profile%20views&color=0e75b6&style=flat" alt="anujatappeta" /> </p>
 
@@ -23,7 +23,6 @@
 <a href="https://www.codechef.com/users/anujatappeta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anujatappeta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@anujatappeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anujatappeta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anuja_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuja_5" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@anuja tappeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anuja tappeta" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/anujac5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/anujac5/" height="30" width="40" /></a>
 </p>
 
