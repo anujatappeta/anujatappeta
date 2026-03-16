@@ -31,14 +31,11 @@
 * Machine Learning
 * AI APIs
 * Linux
-* Data Structures & Algorithms
-
 ---
 
 ## 🚀 Current Focus
 
 * Open Source Contributions
-* Preparing for **Google Summer of Code (GSoC)**
 * Improving **Cybersecurity and AI skills**
 
 ---
