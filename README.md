@@ -2,8 +2,6 @@
 
 🎓 Computer Science Student
 💻 Passionate about **Open Source, Cybersecurity, AI & Machine Learning**
-🚀 Working towards contributing to **Google Summer of Code (GSoC)**
-
 ---
 
 ## 👩‍💻 About Me
