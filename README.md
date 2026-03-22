@@ -8,7 +8,6 @@
 
 * 🔐 Interested in **Cybersecurity**
 * 📚 Currently learning **AI, Machine Learning**
-* 💡 Love solving **Data Structures & Algorithms problems**
 
 ---
 
