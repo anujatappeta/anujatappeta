@@ -1,13 +1,12 @@
 # Hi 👋 I'm Anuja Tappeta
 
 🎓 Computer Science Student
-💻 Passionate about **Open Source, Cybersecurity, AI & Machine Learning**
+💻 Passionate about **Cybersecurity, AI & Machine Learning**
 ---
 
 ## 👩‍💻 About Me
 
 * 🔐 Interested in **Cybersecurity**
-* 🤝 Contributing to **Open Source Projects (Oppia, Sugar Labs)**
 * 📚 Currently learning **AI, Machine Learning**
 * 💡 Love solving **Data Structures & Algorithms problems**
 
