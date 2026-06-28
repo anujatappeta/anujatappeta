@@ -1,13 +1,16 @@
 # Hi 👋 I'm Anuja Tappeta
 
-🎓 Computer Science Student
-💻 Passionate about **Cybersecurity, AI & Machine Learning**
+🎓 Computer Science Engineering Student  
+☁️ Passionate about **AWS Cloud, Cybersecurity, AI & Machine Learning**
+
 ---
 
 ## 👩‍💻 About Me
 
+* ☁️ Interested in **Cloud Computing (AWS)**
 * 🔐 Interested in **Cybersecurity**
-* 📚 Currently learning **AI, Machine Learning**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 📚 Continuously learning new technologies and building projects
 
 ---
 
@@ -15,33 +18,40 @@
 
 ### 💻 Languages
 
-* Python
-* C
-* JavaScript
+* Python  
+* C  
+* JavaScript  
+
+### ☁️ Cloud 
+
+* AWS (S3, EC2, CloudFront, Lambda, IAM)  
 
 ### ⚙️ Backend & Tools
 
-* SQL / MySQL
-* Git & GitHub
+* SQL / MySQL  
+* Git & GitHub  
+* REST APIs  
 
-### 🤖 Other Technologies
+### 🤖 AI & Other Technologies
 
-* Machine Learning
-* AI APIs
-* Linux
+* Machine Learning  
+* AI APIs  
+* Automation  
+
 ---
 
 ## 🚀 Current Focus
 
-* Improving **Cybersecurity and AI skills**
+* Building **Cloud Projects on AWS**  
+* Learning **AI Automation & Machine Learning**
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/anujatappeta
-* LinkedIn: https://linkedin.com/in/anuja-tappeta
+* GitHub: https://github.com/anujatappeta  
+* LinkedIn: https://linkedin.com/in/anuja-tappeta  
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ *Always Learning. Always Building. Always Growing.*
